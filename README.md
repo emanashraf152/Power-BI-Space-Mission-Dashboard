@@ -7,9 +7,9 @@ Missions by Location
 
 Top Performers by Company
 
-Rockets at a Glance
+Missions by Rocket
 
-Mission Status Tracker
+Missions by Status
 # Data Preparation and Analysis Process:
 Cleaned the dataset using "Power Query".
 
